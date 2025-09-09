@@ -3,7 +3,7 @@
 // @namespace    http://filipgil.xyz/
 // @version      2025-02-15_23-05
 // @description  try to take over Allegro.pl
-// @author       You
+// @author       You & Me
 // @match        https://allegro.pl/kategoria/*
 // @match        https://allegro.pl/listing*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=allegro.pl
@@ -597,3 +597,4 @@ const genListing = (listingData) => {
   </div>
 </article>`;
 };
+
